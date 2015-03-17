@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Phoenixsharp_Catdeals>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Phoenixsharp_Catdeals>
+    </modules>
+</config>

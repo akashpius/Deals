@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Phoenixsharp_Prdctdeals>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Phoenixsharp_Prdctdeals>
+    </modules>
+</config>
